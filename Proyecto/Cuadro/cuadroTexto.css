@@ -1,0 +1,14 @@
+.cuadro {
+    border: 1px solid #ccc;
+    padding: 20px; 
+    margin: 20px auto;
+}
+
+dl.row dt {
+    font-weight: bold; 
+    margin-top: 10px; 
+}
+
+dl.row dd {
+    margin-bottom: 10px;
+}
